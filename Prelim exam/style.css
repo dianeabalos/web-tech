@@ -1,0 +1,92 @@
+h1 {
+  color: firebrick;
+}
+
+nav a {
+  color: maroon;
+  text-decoration: none;
+}
+
+p {
+  color: brown;
+}
+
+table,
+td,
+th {
+  border: 1px solid #000;
+  border-collapse: collapse;
+  text-align: left;
+  padding: 20px;
+  font-size: 15px;
+}
+
+th {
+  background-color: rgb(190, 223, 190);
+  text-align: left;
+}
+
+.img,
+.name {
+  color: red;
+}
+.jose {
+  color: #24505c;
+}
+.jennifer {
+  color: #24505c;
+}
+.age {
+  color: blue;
+}
+
+.old {
+  color: #24505c;
+}
+.color {
+  color: darkgreen;
+}
+.pink {
+  color: rgb(215, 84, 197);
+}
+.green {
+  color: green;
+}
+.blue {
+  color: blue;
+}
+.brown {
+  color: brown;
+}
+.orange {
+  color: rgb(203, 69, 20);
+}
+.red {
+  color: red;
+}
+.yellow {
+  color: yellow;
+}
+
+.food {
+  color: goldenrod;
+}
+.foodlist {
+  color: #24505c;
+}
+
+h6 {
+  color: #24505c;
+}
+.town {
+  color: rgb(28, 97, 182);
+}
+.prog {
+  color: red;
+}
+.cars {
+  color: brown;
+}
+footer {
+  text-align: center;
+}
